@@ -25,7 +25,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,nodejs,github,unity,figma" />
 </p>
+<div align="center">
+  
+![GitHub Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
 
+</div>
 <br>
 
 
