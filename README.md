@@ -32,23 +32,6 @@
 </div>
 <br>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammednaseemtk&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednaseemtk&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muhammednaseemtk&theme=react-dark" alt="Activity Graph" />
-</p>
-
-<br>
-
 ## 🌐 Connect with Me
 
 <p align="center">
