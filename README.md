@@ -3,7 +3,7 @@
   Hi, I'm Naseem
 </h1>
 
-<h3 align="center">🌟 Frontend & Flutter Developer | UI/UX Enthusiast | Open Source Contributor</h3>
+<h3 align="center"> Frontend & Flutter Developer | UI/UX Enthusiast | Open Source Contributor | Hive | Sharedapreference | Provider | Dart | API</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammednaseemtk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,11 +11,11 @@
 
 <br>
 
-## 🚀 About Me
+##  About Me
 <p align="center">
-  🌱 I’m currently mastering **Flutter**, **Dart**, and **Clean Architecture**.<br/>
-  💡 Passionate about creating **beautiful UIs**, efficient **performance optimization**, and clean code.<br/>
-  🎯 Always excited to collaborate on open-source projects.
+  I’m currently mastering **Flutter**, **Dart**, **Clean Architecture**, **Hive**, **SahredPreference**, **Provider** and **API**.<br/>
+  Passionate about creating **beautiful UIs**, efficient **performance optimization**, and clean code.<br/>
+   Always excited to collaborate on open-source projects.
 </p>
 
 <br>
@@ -32,7 +32,7 @@
 </div>
 <br>
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammednaseemtk" target="_blank">
@@ -51,14 +51,14 @@
 <br>
 
 
-## 🎯 Visitor Counter
+##  Visitor Counter
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammednaseemtk&right_color=blue&left_color=green&heart=true" />
 </p>
 <br>
 
-## 💬 My Favorite Quote
+##  My Favorite Quote
  "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
