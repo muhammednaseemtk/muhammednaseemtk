@@ -35,7 +35,7 @@
 ##  Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammednaseemtk" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammed-naseem-t-k-b08969377/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
