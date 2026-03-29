@@ -3,7 +3,7 @@
   Hi, I'm Naseem
 </h1>
 
-<h3 align="center"> Frontend & Flutter Developer | UI/UX Enthusiast | Open Source Contributor | Hive | Sharedapreference | Provider | Dart | API</h3>
+<h3 align="center"> Frontend & Flutter Developer | UI/UX Enthusiast | Open Source Contributor | Hive | Sharedapreference | API | REST API | Firebase | Provider | Dart | API</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammednaseemtk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
