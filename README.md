@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" style="vertical-align: middle;" /> 
   Hi, I'm Naseem
 </h1>
 
