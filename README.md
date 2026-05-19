@@ -63,7 +63,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammednaseemtk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednaseemtk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -76,14 +75,10 @@
 
 <!-- Connect With Me (Animated Icons) -->
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Icons/Communication/Mail.svg" width="30"/>Connect With Me</h3>
+  <h3>Connect With Me</h3>
   <br>
   <a href="https://www.linkedin.com/in/muhammed-naseem-t-k-b08969377/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/muhammednaseemtk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="45" height="45" alt="GitHub" />
   </a>
 </div>
 
@@ -92,7 +87,7 @@
 <!-- Quote & Visitor Counter -->
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>– Cory House</b>
+  <b>Cory House</b>
   <br><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammednaseemtk&right_color=00E676&left_color=1F2328" alt="Visitor Counter"/>
 </div>
