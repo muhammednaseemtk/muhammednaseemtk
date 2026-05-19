@@ -88,8 +88,6 @@
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   <b>Cory House</b>
-  <br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammednaseemtk&right_color=00E676&left_color=1F2328" alt="Visitor Counter"/>
 </div>
 
 <!-- Animated Footer -->
