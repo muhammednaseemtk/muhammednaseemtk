@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" style="border-radius: 15px;" />
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" style="border-radius: 24px;" />
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednaseemtk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
+<br><br>
 <!-- Animated Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednaseemtk&theme=tokyo-night&hide_border=true&area=true" width="98%" />
