@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Frontend%20&%20Flutter%20Developer&descAlignY=75&descSize=20" width="100%"/>
-</div>
+</div> -->
 
 <!-- Animated Typing Text & Waving Hand -->
 <div align="center">
