@@ -55,24 +55,6 @@
   <img src="https://img.shields.io/badge/Shared_Preferences-4CAF50?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-<br><br>
-
-<!-- Animated GitHub Stats -->
-<div align="center">
-  <h3>GitHub Analytics</h3>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednaseemtk&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<br><br>
-<!-- Animated Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednaseemtk&theme=tokyo-night&hide_border=true&area=true" width="98%" />
-</p>
-
-<br>
-
 <!-- Connect With Me (Animated Icons) -->
 <div align="center">
   <h3>Connect With Me</h3>
